@@ -1,0 +1,24 @@
+*{
+    /* box-sizing: border-box; */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    text-align:center
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color:white !important;
+    text-decoration: none !important;
+    font-size:3rem;
+    margin-right: 25px;
+    padding:16px;
+    background-color: rgb(22, 21, 21) ;
+}
+a:hover {
+    background-color: rgba(0, 0, 0, 0.952);
+}
